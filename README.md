@@ -1,4 +1,8 @@
-# Depression App Backend
+# Audio Modifier Backend
+
+## Provided
+  - Voice Activity Detection (VAD)
+  - Speech to Text (STT google api)
 
 ## Required
   - Only Docker
